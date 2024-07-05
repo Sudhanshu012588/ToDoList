@@ -52,7 +52,7 @@ function TaskManager() {
                         onChange={handleChange}
                     />
                     <img
-                        src="./public/add.png"
+                        src="./add.png"
                         alt="Add"
                         onClick={AddTask}
                         className="h-12 w-12 ml-4 cursor-pointer hover:scale-110 transition-transform duration-200 ease-in-out"
