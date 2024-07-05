@@ -51,7 +51,7 @@ function TaskManager() {
                         value={TaskString}
                         onChange={handleChange}
                     />
-                        src=<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/add.png" alt="add"   onClick={AddTask}
+                        <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/add.png" alt="add"   onClick={AddTask}
                         className="h-12 w-12 ml-4 cursor-pointer hover:scale-110 transition-transform duration-200 ease-in-out"/>
                         
                 </div>
